@@ -16,7 +16,7 @@
 
 
 import React from 'react';
-import Login from './pages/phonelogin';
+import Login from './pages/login';
 
 function App() {
   return (
